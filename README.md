@@ -9,6 +9,8 @@
 [![HuggingFace](https://img.shields.io/badge/🤗_Transformers-4.35+-FFD21E?style=for-the-badge)](https://huggingface.co)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 
+### 🌐 [Live Demo](https://sentimentproject-amanagarwal.streamlit.app) ← Try it now!
+
 [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Screenshots](#-screenshots) • [License](#-license)
 
 </div>
