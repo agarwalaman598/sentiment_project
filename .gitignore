@@ -70,13 +70,13 @@ data/processed/
 # ===========================
 # Model Files (large binaries)
 # ===========================
-models/bert_model/
-models/*.pkl
-models/*.pt
-models/*.pth
-models/*.h5
-models/*.onnx
-*.bin
+# models/bert_model/
+# models/*.pkl
+# models/*.pt
+# models/*.pth
+# models/*.h5
+# models/*.onnx
+# models/*.bin
 
 # ===========================
 # HuggingFace Transformers Cache
